@@ -1,4 +1,4 @@
-#适用于神舟K650DI7D3的opencore引导文件  
+#适用于神舟K650DI7D3的opencore引导文件（仅测试macOS Catalina10.15.7）  
 #需开启csm解，否则引导期间出现8苹果花屏问题  
 规格	详细信息  
 中央处理器	英特尔 Haswell i7-4710MQ  
